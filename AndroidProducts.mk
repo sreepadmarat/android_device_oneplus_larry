@@ -5,5 +5,12 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_larry.mk
+    $(LOCAL_DIR)/larry.mk
 
+COMMON_LUNCH_CHOICES := \
+    larry-cp2a-user \
+    larry-cp2a-userdebug \
+    larry-cp2a-eng \
+    larry-user \
+    larry-userdebug \
+    larry-eng

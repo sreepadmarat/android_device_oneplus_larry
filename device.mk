@@ -63,7 +63,8 @@ PRODUCT_PACKAGES += \
     LarryINWifiOverlay \
     LarryNASettingsProviderOverlay \
     LarryNAWifiOverlay \
-    OPlusFrameworksResTarget
+    OPlusFrameworksResTarget \
+    SettingsOverlayLarry
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
